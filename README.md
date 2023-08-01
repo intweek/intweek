@@ -6,4 +6,4 @@ Hey there👋
 ➤ I am a 16 year old male (he/him) student from a small country in Europe called Lithuania.  
 ➤ Doing programming mainly for fun, the programming that is taught in my school is so basic that I can't do anything with it.  
 ➤ **Love to solve real-life problems**, not just arbritrary projects with usseless problems that don't exist and are created for the soul purpose to solve them.  
-➤ Currently working with **C++** (which is my first learned language btw), on _Visual Studio code_.
+➤ Currently working with **Flutter** (developing a mobile app for learning physics), on _Visual Studio code_.
